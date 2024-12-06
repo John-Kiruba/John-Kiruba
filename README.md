@@ -1,4 +1,4 @@
-# </> Hey there,👋
+# </>👋
 I'm a passionate developer with a knack for problem-solving and an affinity for clean, maintainable code. <br><br>This is a digital journal of my journey as a tech enthusiast 📔<br>Feel free to connect, collaborate, or check out my projects! 🚀  <br>
 
 ## 🌐 Socials:
