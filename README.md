@@ -1,4 +1,4 @@
-# </>
+# </> 
 
 I'm a developer with an ocd to write clean, maintainable code. 
 <br><br>This is a digital journal of my journey as a tech enthusiast 📔<br>Feel free to connect, collaborate, or check out my projects! 🚀 <br>
